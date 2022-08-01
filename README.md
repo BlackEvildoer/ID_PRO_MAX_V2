@@ -5,17 +5,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=FOLLOW+MY+GITHUB)](https://git.io/typing-svg)
 
 
-# Coomands
+# COMMAND
 
   pkg install python
 
-  git clone https://github.com/BlackEvildoer/testt.txt
+  git clone https://github.com/BlackEvildoer/ID_PRO_MAX_V2
 
-  cd testt.txt
+  cd ID_PRO_MAX_V2
    
   ls
 
-  python IDpro.py
+# RUN
+
+  python ID_PRO_MAX.py
 
 
 #### MY SOCIAL MEDIA
