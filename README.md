@@ -19,6 +19,12 @@
 
   python ID_PRO_MAX.py
 
+# WHATS WORKING.?
+  
+  TERMUX ✅
+  PYDROID3 ✅
+  WINDOWS ✅
+  LINUX [ NO TEST ] 
 
 #### MY SOCIAL MEDIA
  
